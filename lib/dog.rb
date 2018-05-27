@@ -9,6 +9,7 @@ class Dog
   end
   
   
+  puts name
+  
 end
 
-puts name
